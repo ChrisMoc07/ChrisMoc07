@@ -1,13 +1,38 @@
-## Hi there 👋
+# Hey, I’m Chris 👋
 
-- 🔭 I’m currently a senior trying to do anything to get ahead of my competition in the Computer science Field.
-- 🌱 I’m currently learning Java in AP Computer Science and the hardware behind circuits in Duel Credit Electronics Classes. 
-- 👯 I’m looking to collaborate on projects that can improve my technical skills, look good on a portfolio, and have some fun.
-- 🤔 I’m looking to get a deeper and better understanding of programming.
-- ⚡ I play soccer
+I’m a Computer Engineering student starting at UIUC in Fall 2025. Right now, I’m focused on getting stronger in backend development, AI, and systems that blend software and hardware.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+I’ve worked on a few web apps and interactive tools, and I like building stuff that actually runs — not just code that looks good on paper. Whether it’s a chaotic timer that randomly freezes mid-countdown or a JavaFX game with save/load mechanics, I’m all about projects that teach me something new.
+
+---
+
+## Current Skills & Tools
+
+- **Languages:** Java, JavaScript, Python, Swift
+- **Frontend:** HTML, CSS (basic layout and styling)
+- **Tools:** Git, GitHub, VS Code, Xcode, Arduino
+- **Interest Areas:** AI, backend logic, embedded systems
+
+---
+
+## What I'm Working On
+
+- **DPI Internship** – working on real-world projects and getting deeper into Swift and app dev  
+- **Amazon Internship (2026)** – upcoming opportunity to explore software/hardware at scale  
+- **Chaos Timer** – a countdown app with unpredictable behavior just for fun  
+- **Capstone Java Game (in progress)** – a dungeon crawler built with JavaFX and OOP
+
+---
+
+## Goals
+
+- Keep building technical projects that stretch what I know  
+- Learn more about backend architecture and AI workflows  
+- Make the most of the internships I’ve got lined up  
+- Add work I’m proud of to this GitHub
+
+---
+
+Feel free to explore my repos. Most are things I made to learn, some are team collabs, and all of them helped me level up.
+
+📫 [github.com/ChrisMoc07](https://github.com/ChrisMoc07)
